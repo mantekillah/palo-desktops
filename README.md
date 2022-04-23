@@ -9,8 +9,7 @@
   - Reinicio després d'haver activat Windows.
 - Instal·lo *tota la merda* que m'ofereixin (també la opcional) al `Windows Update`.
   - Torno a reiniciar el sistema per acabar d'instal·lar totes les actualitzacions.
-- Obro el `Windows PowerShell` (com a administrador)
-- Executo `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
+- Obro el `Windows PowerShell` (com a administrador) per executar `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
   - S'obre `Windows Toolbox By Chris Titus`.
   - De la primera columna per l'esquerra, `INSTALL`, instal·lo:
     - `Windows Terminal` (*pijadeta* que substituir el *PowerShell* i és més cmd/linux-style), `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*), `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
