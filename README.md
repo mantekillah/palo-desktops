@@ -32,7 +32,6 @@
 - [MEGAsync](https://mega.io/desktop) - MEGA al PC
 - WordPress packaged by Bitnami
 - NVIDIA Controlador de gráficos
-
 - [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español) - Editor de vídeo
 - [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español) - Editor de vídeo
 - [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) - Client per GitHub
@@ -45,11 +44,9 @@
 - [Inkscape](https://inkscape.org/release/) - Reemplaça Illustrator
 - [OBS Studio](https://obsproject.com/es/download) - Fer streams
 - [FileZilla](https://filezilla-project.org/download.php) - Client FTP
-
 - [Telegram Desktop](https://telegram.org/dl/desktop/win64) - Client de Telegram
 - [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86) - Client de Discord
 - [Element](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe) - Client de Matrix
-
 - [TulaLauncher](https://www.tula-wow.com/page/connect) - Cal descarregar el [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar) (també al Discord)
 - [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
 - mGBA
