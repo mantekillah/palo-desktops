@@ -10,7 +10,7 @@
 - `Obro Windows PowerShell` (com a administrador)
 - `Executo` `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script))
   - S'obre `Windows Toolbox By Chris Titus`. De la primera columna:
-    - `Instal·lo` `Windows Terminal` (*pijadeta* que substituir el *PowerShell* i és més cmd/linux-style), `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*), `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
+    - `Instal·lo`: `Windows Terminal`, `PowerToys`, `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
 - Quan acabo d'instal·lar tot el que vull, deixo el `Windows Toolbox` en *stand-by*.
 - Vaig a [Ninite](https://ninite.com).
   - Trio `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat `Runtimes`, `qBittorrent`, `Inkscape` i m'ho descarrego.
