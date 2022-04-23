@@ -18,8 +18,7 @@
   - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
     - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
 - `Instal·lo el software que em falta`:
-  - [***Geek Uninstaller***](https://geekuninstaller.com/download), [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows), [***Tor Browser***](https://www.torproject.org/ca/download/), 
-- [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop)
+  - [***Geek Uninstaller***](https://geekuninstaller.com/download), [***mGBA***](https://mgba.io/downloads.html), [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows), [***Tor Browser***](https://www.torproject.org/ca/download/), [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop),
 - [VirtualBox + Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)
 - [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/)
