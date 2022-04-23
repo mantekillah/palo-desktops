@@ -8,10 +8,8 @@
   - INSTAL·LO:
     - `Windows Terminal` (substituteix *PowerShell* i és més linux-style)
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
-    - `7-Zip`
-    - `Discord`
-    - `Github Desktop`
-    - ``Translucent Taskbar``
+    - `7-Zip`, `Discord`, `Github Desktop`
     - ``, ``, ``, ``, ``, ``, `` i ``.
    - NO INSTAL·LO:
-      - `AutoHotkey` (sincerament, ni puta idea de la seva utilitat).
+      - `AutoHotkey` (sincerament, ni puta idea de la seva utilitat)
+      - ``Translucent Taskbar``.
