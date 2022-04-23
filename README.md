@@ -11,3 +11,4 @@
     - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC`, `SumatraPDF`
   - SYSTEM TWEAKS > `Essential Tweaks`. Quan aquest procés acaba, reinicio el sistema
   - Despres del reinici, vaig a [Ninite](https://ninite.com) i descarrego el paquet amb `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat *Runtimes*, `qBittorrent`, `Inkscape`
+  - Torno a obrir l'script `iwr -useb https://git.io/JJ8R4 | iex`
