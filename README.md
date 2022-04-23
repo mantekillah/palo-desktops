@@ -11,4 +11,5 @@
     - `7-Zip`, `Discord`, `Github Desktop`
    - NO INSTAL·LO:
       - `AutoHotkey` (sincerament, ni puta idea de la seva utilitat)
-      - ``Translucent Taskbar``
+      - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
+      - `Translucent Taskbar`
