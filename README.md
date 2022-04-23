@@ -19,30 +19,28 @@
     - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
 - `Instal·lo el software que em falta`:
   - [***Geek Uninstaller***](https://geekuninstaller.com/download), [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows), [***Tor Browser***](https://www.torproject.org/ca/download/), 
-- [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop) - Substitut del paquet Office de Microsoft
-- [VirtualBox + Extension Pack](https://www.virtualbox.org/wiki/Downloads) - Màquines virtuals
-- [CCleaner](https://www.ccleaner.com/ccleaner/download/standard) - Netejador del sistema
-- [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/) - Connecta PCs
-- [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64) - Reunions online
-- [aTube Catcher](https://www.atube.me/es/) - Baixa vídeos/àudios de YouTube
-- [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Personalitza Windows
-- [MEGAsync](https://mega.io/desktop) - MEGA al PC
-- [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español) - Editor de vídeo
-- [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español) - Editor de vídeo
-- [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) - Client per GitHub
-- [Visual Studio Code](https://code.visualstudio.com/download#) - Programació i tal
-- [Cool Edit Pro 2.1](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español) - Per gravar-me els meus temes
-- [Bandicam](https://www.youtube.com/results?search_query=descargar+bandicam+full+español) - Gravar pantalla
-- [Camtasia Studio](https://www.youtube.com/results?search_query=descargar+camtasia+full+español) - Editor de vídeo senzill
-- [TextAloud 4](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español) - Combina amb les veus de Loquendo
-- [Inkscape](https://inkscape.org/release/) - Reemplaça Illustrator
-- [OBS Studio](https://obsproject.com/es/download) - Fer streams
-- [Telegram Desktop](https://telegram.org/dl/desktop/win64) - Client de Telegram
-- [Element](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe) - Client de Matrix
-- [TulaLauncher](https://www.tula-wow.com/page/connect) - Cal descarregar el [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar) (també al Discord)
+- [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop)
+- [VirtualBox + Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+- [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)
+- [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/)
+- [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64)
+- [aTube Catcher](https://www.atube.me/es/)
+- [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip)
+- [MEGAsync](https://mega.io/desktop)
+- [OBS Studio](https://obsproject.com/es/download)
+- [Telegram Desktop](https://telegram.org/dl/desktop/win64)
+- [Element](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe)
+- [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar)
+- [TulaLauncher](https://www.tula-wow.com/page/connect) (també al Discord)
 - [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
 - WordPress packaged by Bitnami
 - mGBA
+- [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español)
+- [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español)
+- [Cool Edit Pro 2.1](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español)
+- [Bandicam](https://www.youtube.com/results?search_query=descargar+bandicam+full+español)
+- [Camtasia Studio](https://www.youtube.com/results?search_query=descargar+camtasia+full+español)
+- [TextAloud 4](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español)
 
 ## Links
 
