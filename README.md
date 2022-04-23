@@ -17,8 +17,8 @@
   - Recomano no tocar res de l'apartat de ***Windows Update***
   - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
     - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
-
-- [Opera GX](https://www.opera.com/computer/thanks?ni=eapgx&os=windows) - VPN gratis inclosa
+- `Instal·lo el software que em falta`:
+  - [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows) - VPN gratis inclosa
 - [Tor Browser](https://www.torproject.org/ca/download/) - Navegació anònima
 - [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop) - Substitut del paquet Office de Microsoft
 - [Geek Uninstaller](https://geekuninstaller.com/download) - El bon desinstal·lador
