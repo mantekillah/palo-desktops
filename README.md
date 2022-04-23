@@ -7,7 +7,7 @@
   - **El sistema es reinicia** durant l'instal·lació. S'ha de treure el *pen drive*.
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
-- **Reinicio el sistema** després d'haver activat Windows **per aplicar canvis**.
+- **Reinicio el sistema** després d'haver activat Windows per aplicar canvis.
 - Instal·lo *tota la merda* que m'ofereixin (també la opcional) al `Windows Update`.
   - Torno a reiniciar el sistema per acabar d'instal·lar totes les actualitzacions.
 - Obro el `Windows PowerShell` (com a administrador) i executo `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
@@ -20,5 +20,5 @@
   - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
 - Torno al `Windows Toolbox`.
   - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, clico `Disable Action Center`.
-- **Reinicio el sistema** **per aplicar canvis**.
+- **Reinicio el sistema** per aplicar canvis.
 - Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` des de la `Terminal` per obrir el `Windows Toolbox` un altre cop.
