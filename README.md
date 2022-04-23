@@ -34,7 +34,6 @@
 - [TulaLauncher](https://www.tula-wow.com/page/connect) (també al Discord)
 - [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
 - WordPress packaged by Bitnami
-- mGBA
 - [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español)
 - [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español)
 - [Cool Edit Pro 2.1](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español)
