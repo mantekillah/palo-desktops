@@ -10,6 +10,7 @@
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
     - `7-Zip`, `Discord`, `Github Desktop`
    - NO INSTAL·LO:
-      - `AutoHotkey` (sincerament, ni puta idea de la seva utilitat)
-      - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
+      - `AutoHotkey`
       - `Translucent Taskbar`
+      - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
+      - `PuTTY WinSCP`
