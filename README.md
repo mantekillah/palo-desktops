@@ -29,7 +29,6 @@
 - [aTube Catcher](https://www.atube.me/es/) - Baixa vídeos/àudios de YouTube
 - [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Personalitza Windows
 - [MEGAsync](https://mega.io/desktop) - MEGA al PC
-- WordPress packaged by Bitnami
 - [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español) - Editor de vídeo
 - [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español) - Editor de vídeo
 - [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) - Client per GitHub
@@ -45,6 +44,7 @@
 - [Element](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe) - Client de Matrix
 - [TulaLauncher](https://www.tula-wow.com/page/connect) - Cal descarregar el [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar) (també al Discord)
 - [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
+- WordPress packaged by Bitnami
 - mGBA
 
 ## Links
