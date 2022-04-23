@@ -13,5 +13,4 @@
 - `Programes Ninite` (obro Internet, vaig a [***Ninite***](https://ninite.com), sel·lecciono ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a **Get Your Ninite**)
   - `Instal·lo l'executable del Ninite` (el que acabo d'obtenir)
 - `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a ***Essential Tweaks*** i, quan acaba el procés, faig clic a ***Disable Action Center***
-- `Reinicio el sistema` (per aplicar els nous canvis)
-- Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` des de la `Terminal` per obrir el `Windows Toolbox` un altre cop.
+  - `Reinicio el sistema` quan m'ho demani (per aplicar els nous canvis)
