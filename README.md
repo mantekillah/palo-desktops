@@ -1,7 +1,7 @@
 # Instal·lació de tot • El meu camí
 
-- Descarrego la ISO del Windows que més m'agradi.
-  - Personalment, sudo del Windows 11 i faré servir `Win10_21H2_Spanish_x64.iso`.
+- Descarrego el Windows que més m'agradi.
+  - Personalment, sudo del Windows 11 i faré servir `Win10_21H2_Spanish_x64.ISO`.
 - Instal·lo el Windows en un disc dur buit.
   - Jo utilitzo `Ventoy` o `Rufus` per fer *USBs bootables*.
 - Activo el Windows.
