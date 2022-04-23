@@ -13,11 +13,11 @@
   - S'obre `Windows Toolbox By Chris Titus`.
   - De la primera columna per l'esquerra, `INSTALL`, instal·lo:
     - `Windows Terminal` (*pijadeta* que substituir el *PowerShell* i és més cmd/linux-style), `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*), `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
-- Quan acabo d'instal·lar tot el que vull, deixo el *Windows Toolbox* i la *Powershell* en *stand-by*.
+- Quan acabo d'instal·lar tot el que vull, deixo el `Windows Toolbox` en *stand-by*.
 - Vaig a [Ninite](https://ninite.com). Trio `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat `Runtimes`, `qBittorrent`, `Inkscape` i m'ho descarrego.
   - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
-- Torno al *Windows Toolbox*. 
-  - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, tanco el *Windows Toolbox* i la *Powershell*.
+- Torno al `Windows Toolbox`.
+  - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, tanco el `Windows Toolbox` i la `Powershell`.
   - 
  - Despres del reinici, 
    - Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` - `Windows Toolbox By Chris Titus`
