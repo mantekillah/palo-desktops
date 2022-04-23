@@ -20,19 +20,10 @@
 
 - [Opera GX](https://www.opera.com/computer/thanks?ni=eapgx&os=windows) - VPN gratis inclosa
 - [Tor Browser](https://www.torproject.org/ca/download/) - Navegació anònima
-
-- [7-Zip](https://www.7-zip.org/download.html) - El millor compressor/descompressor
-- [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) - El millor visor PDF
-- [VLC](https://www.videolan.org/vlc/download-windows.ca.html) - El millor reproductor de àudio i vídeo
-- [Notepad++](https://notepad-plus-plus.org/downloads/) - Editor de text molt simple
 - [ONLYOFFICE](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop) - Substitut del paquet Office de Microsoft
 - [Geek Uninstaller](https://geekuninstaller.com/download) - El bon desinstal·lador
-- [Caffeine](https://www.zhornsoftware.co.uk/caffeine/#download) - Evita que el PC reposi
-- [qBittorrent](https://www.fosshub.com/qBittorrent.html) - Per descarregar torrents
-
 - [VirtualBox + Extension Pack](https://www.virtualbox.org/wiki/Downloads) - Màquines virtuals
 - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard) - Netejador del sistema
-- [Everything](https://www.voidtools.com/downloads/) - Buscador d'arxius
 - [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/) - Connecta PCs
 - [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64) - Reunions online
 - [aTube Catcher](https://www.atube.me/es/) - Baixa vídeos/àudios de YouTube
