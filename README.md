@@ -9,7 +9,7 @@
 - `Reinicio Windows` (per acabar d'instal·lar totes les actualitzacions)
 - `Obro Windows PowerShell` (com a administrador)
 - `Copio al PowerShell` > `iwr -useb https://git.io/JJ8R4 | iex`
-  - S'obre *Windows Toolbox - [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
+  - S'obre ***Windows Toolbox*** ([by Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
 - `Instal·lo el software` > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
 - `Obro Internet` > vaig a [***Ninite***](https://ninite.com) i sel·lecciono > ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a ***Get Your Ninite***
 - `Instal·lo l'executable del Ninite`
