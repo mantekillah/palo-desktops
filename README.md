@@ -19,7 +19,6 @@
   - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
 - Torno al `Windows Toolbox`.
   - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, tanco el `Windows Toolbox` i la `Powershell`.
-  - 
- - Despres del reinici, 
+ - Reinicio el sistema per aplicar canvis. 
    - Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` - `Windows Toolbox By Chris Titus`
    - Quan aquest procés acaba, reinicio el sistema
