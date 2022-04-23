@@ -2,9 +2,8 @@
 
 - `Descarrego Windows` (personalment, sudaré del *Windows 11* i faré servir `Win10_21H2_Spanish_x64.iso`)
 - `Preparo l'USB` *bootable* d'instal·lació (per fer-ho, utilitzo `Rufus`; o, millor encara, `Ventoy`)
-- Instal·lo el Windows en un disc dur buit.
-  - En cert moment **el sistema es reinicia**, s'extreu l'USB, i s'acaba amb la instal·lació.
-- Activo el Windows.
+- `Instal·lo Windows` en un disc dur buit (en cert moment **el sistema es reinicia**, extrec l'USB, i s'acaba la instal·lació)
+- `Activo Windows`
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
 - **Reinicio el sistema** després d'haver activat Windows per aplicar canvis.
 - Instal·lo totes les actualitzacions que m'ofereixin (també les opcionals) al `Windows Update`.
