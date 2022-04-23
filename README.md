@@ -12,3 +12,4 @@
    - NO INSTAL·LO:
       - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
       - `AutoHotkey`, `PuTTY WinSCP`, `Brave Browser`, `Media Player Classic`, `VS Codium`
+ - System Tweaks > Essential Tweaks. Quan aquest acabo 
