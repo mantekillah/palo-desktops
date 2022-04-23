@@ -20,5 +20,4 @@
 - Torno al `Windows Toolbox`.
   - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, clico `Disable Action Center`.
   - Quan s'acabi el procés, reinicio el sistema per aplicar canvis.
-
-Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` - `Windows Toolbox By Chris Titus`
+- Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` des de la `Terminal` per obrir el `Windows Toolbox` un altre cop.
