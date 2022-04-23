@@ -1,7 +1,9 @@
 # Instal·lació de tot • El meu camí
 
-- Descarrego la ISO del Windows que més m'agradi i la instal·lo en un disc dur buit.
+- Descarrego la ISO del Windows que més m'agradi.
   - Com sóc un boomer, sudo de Windows 11 i faig servir `Win10_21H2_Spanish_x64.iso`.
+- Instal·lo el Windows en un disc dur buit.
+  - Jo utilitzo `Ventoy` o `Rufus` per fer *USBs bootables*.
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
 - Reinicio després d'haver activat Windows.
