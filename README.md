@@ -1,3 +1,4 @@
-# L'autèntic procés
+# L'autèntic procés - El meu camí
 
-Descarregues `Win10_21H2_Spanish_x64.iso` o similar i l'instal·les en un disc dur buit.
+- Descarregues la ISO del Windows que vulguis. Com sóc un boomer, sudo de l'11 i faig servir `Win10_21H2_Spanish_x64.iso` i l'instal·lo en un disc dur buit.
+- Activo el Windows buscant a YouTube algo tipo `activar windows 10 pro cmd`
