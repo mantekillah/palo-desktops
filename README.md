@@ -8,7 +8,7 @@
   - INSTAL·LO:
     - `Windows Terminal` (substituteix *PowerShell* i és més linux-style)
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
-    - `7-Zip`, `Discord`, `Github Desktop`, `Everything Search`
+    - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`
    - NO INSTAL·LO:
       - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
-      - `AutoHotkey`, `Translucent Taskbar`, `PuTTY WinSCP`, `Advanced IP Scanner`
+      - `AutoHotkey`, `PuTTY WinSCP`, 
