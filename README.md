@@ -5,7 +5,7 @@
 - Preparo el `USB bootable` per fer la instal·lació.
   - Per fer-ho, utilitzo `Rufus`; o, millor encara, `Ventoy`.
 - Instal·lo el Windows en un disc dur buit.
-  - **El sistema es reinicia** durant l'instal·lació. S'ha d'extreure l'USB.
+  - En cert moment s'ha d'extreure l'USB, **el sistema es reinicia**, i s'acaba amb la instal·lació.
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
 - **Reinicio el sistema** després d'haver activat Windows per aplicar canvis.
