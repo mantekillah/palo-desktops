@@ -4,7 +4,7 @@
 - `Preparo l'USB bootable` (per fer-ho, utilitzo [Rufus](https://rufus.ie); o, millor encara, [Ventoy](https://github.com/ventoy/Ventoy/releases))
 - `Instal·lo Windows` en un disc dur buit (en cert moment *el sistema es reinicia*; extrec l'USB i s'acaba la instal·lació)
 - `Activo Windows` (seguint les instruccions del vídeo que millor pinta faci, buscant *activar Windows 10 CMD* a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd))
-- `Reinicio Windows` per aplicar canvis després d'haver-lo activat.
+- `Reinicio Windows` (per aplicar canvis després d'haver-lo activat)
 - `Instal·lo les actualitzacions` (totes les que m'ofereixin, també les opcionals, del *Windows Update*)
   - Torno a reiniciar el sistema per acabar d'instal·lar totes les actualitzacions.
 - Obro el `Windows PowerShell` (com a administrador) i executo `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
