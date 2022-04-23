@@ -7,7 +7,7 @@
 - `Reinicio Windows` (per aplicar canvis després d'haver-lo activat)
 - `Instal·lo les actualitzacions` (totes les que m'ofereixin, també les opcionals, del *Windows Update*)
 - `Reinicio Windows` (per acabar d'instal·lar totes les actualitzacions)
-- `Executo Windows Toolbox` - (obro `Windows PowerShell` com a administrador)
+- `Executo Windows Toolbox` (obro `Windows PowerShell` com a administrador)
   - `Copio` a la *PowerShell* `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script))
   - De la primera columna, `instal·lo el software`: `Windows Terminal`, `PowerToys`, `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
 - Quan acabo d'instal·lar tot el que vull, deixo el `Windows Toolbox` en *stand-by*.
