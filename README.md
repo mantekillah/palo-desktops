@@ -10,8 +10,7 @@
 - `Obro Windows PowerShell` (com a administrador)
 - `Copio al PowerShell` > `iwr -useb https://git.io/JJ8R4 | iex` (s'obre *Windows Toolbox - [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
 - `Instal·lo el software` > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
-- `Vaig a [Ninite](https://ninite.com)` 
-  - Trio `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat `Runtimes`, `qBittorrent`, `Inkscape` i m'ho descarrego.
+- `Obro Internet` i vaig a [Ninite](https://ninite.com) (trio ***Steam***, ***FileZilla***, ***HandBrake***, *tot el que hi ha a l'apartat **Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a *Get Your Ninite*
   - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
 - Torno al `Windows Toolbox`.
   - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, clico `Disable Action Center`.
