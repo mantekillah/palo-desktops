@@ -5,11 +5,8 @@
 - Reinicio després d'haver activat el Windows i instal·lo tota la merda (també la opcional) del `Windows Update`.
 - Després d'haver instal·lat les actualitzacions i reiniciar, obro el `Windows PowerShell` (com a administrador) i executo `iwr -useb https://git.io/JJ8R4 | iex` ([Chris Titus Tech](https://christitus.com/debloat-windows-10-2020/)).
   - S'obre `Windows Toolbox By Chris Titus`.
-  - INSTAL·LO:
+  - INSTALL:
     - `Windows Terminal` (substituteix *PowerShell* i és més linux-style)
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
     - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC`, `SumatraPDF`
-   - NO INSTAL·LO:
-      - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
-      - `AutoHotkey`, `PuTTY WinSCP`, `Brave Browser`, `Media Player Classic`, `VS Codium`
- - System Tweaks > Essential Tweaks. Quan aquest acabo 
+  - SYSTEM TWEAKS > Essential Tweaks. Quan aquest procés acaba, reinicio. 
