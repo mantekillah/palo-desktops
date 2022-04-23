@@ -4,6 +4,7 @@
   - Personalment, sudo del Windows 11; faré servir `Win10_21H2_Spanish_x64.ISO`.
 - Instal·lo el Windows en un disc dur buit.
   - Jo utilitzo `Ventoy` o `Rufus` per fer *USBs bootables*.
+  - **El sistema es reinicia** durant l'instal·lació. S'ha de treure el *pen drive*.
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
 - **Reinicio el sistema** després d'haver activat Windows **per aplicar canvis**.
