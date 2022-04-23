@@ -8,7 +8,7 @@
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
 - **Reinicio el sistema** després d'haver activat Windows per aplicar canvis.
-- Instal·lo *tota la merda* que m'ofereixin (també la opcional) al `Windows Update`.
+- Instal·lo totes les actualitzacions que m'ofereixin (també les opcionals) al `Windows Update`.
   - Torno a reiniciar el sistema per acabar d'instal·lar totes les actualitzacions.
 - Obro el `Windows PowerShell` (com a administrador) i executo `iwr -useb https://git.io/JJ8R4 | iex` (codi de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
   - S'obre `Windows Toolbox By Chris Titus`.
