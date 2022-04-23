@@ -18,7 +18,7 @@
   - Trio `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat `Runtimes`, `qBittorrent`, `Inkscape` i m'ho descarrego.
   - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
 - Torno al `Windows Toolbox`.
-  - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, tanco el `Windows Toolbox` i la `Powershell`.
- - Reinicio el sistema per aplicar canvis. 
-   - Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` - `Windows Toolbox By Chris Titus`
-   - Quan aquest procés acaba, reinicio el sistema
+  - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, faig clic a `Disable Action Center`.
+  - Quan s'acabi el procés, reinicio el sistema per aplicar canvis.
+
+Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` - `Windows Toolbox By Chris Titus`
