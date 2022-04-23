@@ -31,8 +31,8 @@
 - [Telegram Desktop](https://telegram.org/dl/desktop/win64)
 - [Element](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe)
 - [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar)
-- [TulaLauncher](https://www.tula-wow.com/page/connect) (també al Discord)
-- [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
+- [TulaLauncher](https://www.tula-wow.com/page/connect)
+- [Epic Games Launcher](https://store.epicgames.com/es-ES/download)
 - WordPress packaged by Bitnami
 - [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español)
 - [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español)
