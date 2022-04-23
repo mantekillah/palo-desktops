@@ -4,7 +4,8 @@
   - Com sóc un boomer, sudo de Windows 11 i faig servir `Win10_21H2_Spanish_x64.iso`.
 - Activo el Windows.
   - Segueixo les instruccions del vídeo que millor pinta faci, buscant `activar Windows 10 CMD` a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd).
-- Reinicio després d'haver activat el Windows i instal·lo tota la merda (també la opcional) del `Windows Update`.
+- Reinicio després d'haver activat Windows.
+- Instal·lo tota la merda (també la opcional) del `Windows Update` i torno a reiniciar.
 - Després d'haver instal·lat les actualitzacions i reiniciar, obro el `Windows PowerShell` (com a administrador) i executo `iwr -useb https://git.io/JJ8R4 | iex` ([Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)).
   - S'obre `Windows Toolbox By Chris Titus`.
   - INSTALL:
