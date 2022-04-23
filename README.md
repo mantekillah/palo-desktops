@@ -27,7 +27,7 @@
 - [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/) - Connecta PCs
 - [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64) - Reunions online
 - [aTube Catcher](https://www.atube.me/es/) - Baixa vídeos/àudios de YouTube
-- [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) & [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11/releases) - Personalitza Windows
+- [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Personalitza Windows
 - [MEGAsync](https://mega.io/desktop) - MEGA al PC
 - WordPress packaged by Bitnami
 - [Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español) - Editor de vídeo
