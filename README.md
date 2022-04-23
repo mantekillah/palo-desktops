@@ -18,15 +18,6 @@
   - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
     - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
 
-- [Privacy Guides](https://www.privacyguides.org/)
-- [Targeta Sanitària Europea](https://sede.seg-social.gob.es/wps/portal/sede/sede/Ciudadanos/CiudadanoDetalle/!ut/p/z1/rZJBU8IwEIX_ih44drJp0tAeCzIFpDAMVmguTEhbiANpobXovzdldPRi0dHklM3u2zffPMTRCnEtarUVlcq12Jt3zNmaYEaxB3gSwGgAfhTeRx6Zk2CE0bKtATxA_Cfz8M3xr84_Io641FVR7VBcpkm6lrmuUq2SvOxAU-iAVM-JSIRuKqJUpfmWStyUQqtKnJTogG0uZVrV6R43goVUCYqJ6xFKRGZtJM0syoRnuQ5mltN1No4tKXRlisatDm3WILRPYT_cGllR7Sylsxyt_E8fiw8fBgZvU7vgvDS08brmZ5GWKDbUu1-acI-Cj2cPzB4OMMwoWtYqPaNI56eDScHil0yG8L7BmbmAx2BPgIUu-N58EU2mmASA_7hhfC0Xhrp6Oh65b9LRBOKlQqv_iUdxiKKDS5x9XQyyu97UCvob9_V8-wa7EDu5/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
-- [Fansubs.cat - Anime en català](https://anime.fansubs.cat)
-- [Guia de visionat de One Piece sense relleno](https://mag.elcomercio.pe/respuestas/one-piece-como-ver-el-anime-sin-relleno-monkey-d-luffy-todos-los-capitulos-de-one-piece-crunchyroll-nnda-nnrt-noticia/?ref=ecr)
-- [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/)
-- [Fedora Docs](https://docs.fedoraproject.org/en-US/docs/)
-- [Ask Fedora - Español](https://ask.fedoraproject.org/c/espac3b1ol/98)
-- [✅✅🔴💻Cómo compartir archivos entre Windows y Linux de manera fácil](https://www.youtube.com/watch?v=2GxGgeojfaE) - Clase Gratis™
-
 - [Opera GX](https://www.opera.com/computer/thanks?ni=eapgx&os=windows) - VPN gratis inclosa
 - [Tor Browser](https://www.torproject.org/ca/download/) - Navegació anònima
 
@@ -71,3 +62,14 @@
 - [TulaLauncher](https://www.tula-wow.com/page/connect) - Cal descarregar el [*WoW 3.3.5a*](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar) (també al Discord)
 - [Epic Games Launcher](https://store.epicgames.com/es-ES/download) - Client de la Epic Store
 - mGBA
+
+## Links
+
+- [Privacy Guides](https://www.privacyguides.org/)
+- [Targeta Sanitària Europea](https://sede.seg-social.gob.es/wps/portal/sede/sede/Ciudadanos/CiudadanoDetalle/!ut/p/z1/rZJBU8IwEIX_ih44drJp0tAeCzIFpDAMVmguTEhbiANpobXovzdldPRi0dHklM3u2zffPMTRCnEtarUVlcq12Jt3zNmaYEaxB3gSwGgAfhTeRx6Zk2CE0bKtATxA_Cfz8M3xr84_Io641FVR7VBcpkm6lrmuUq2SvOxAU-iAVM-JSIRuKqJUpfmWStyUQqtKnJTogG0uZVrV6R43goVUCYqJ6xFKRGZtJM0syoRnuQ5mltN1No4tKXRlisatDm3WILRPYT_cGllR7Sylsxyt_E8fiw8fBgZvU7vgvDS08brmZ5GWKDbUu1-acI-Cj2cPzB4OMMwoWtYqPaNI56eDScHil0yG8L7BmbmAx2BPgIUu-N58EU2mmASA_7hhfC0Xhrp6Oh65b9LRBOKlQqv_iUdxiKKDS5x9XQyyu97UCvob9_V8-wa7EDu5/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Fansubs.cat - Anime en català](https://anime.fansubs.cat)
+- [Guia de visionat de One Piece sense relleno](https://mag.elcomercio.pe/respuestas/one-piece-como-ver-el-anime-sin-relleno-monkey-d-luffy-todos-los-capitulos-de-one-piece-crunchyroll-nnda-nnrt-noticia/?ref=ecr)
+- [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/)
+- [Fedora Docs](https://docs.fedoraproject.org/en-US/docs/)
+- [Ask Fedora - Español](https://ask.fedoraproject.org/c/espac3b1ol/98)
+- [✅✅🔴💻Cómo compartir archivos entre Windows y Linux de manera fácil](https://www.youtube.com/watch?v=2GxGgeojfaE) - Clase Gratis™
