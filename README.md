@@ -9,4 +9,4 @@
     - `Windows Terminal` (substituteix *PowerShell* i és més linux-style)
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
     - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC`, `SumatraPDF`
-  - SYSTEM TWEAKS > Essential Tweaks. Quan aquest procés acaba, reinicio. 
+  - SYSTEM TWEAKS > `Essential Tweaks`. Quan aquest procés acaba, reinicio el sistema 
