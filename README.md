@@ -12,5 +12,7 @@
   - `Instal·lo el software` (***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***)
 - `Programes Ninite` (obro Internet, vaig a [***Ninite***](https://ninite.com), sel·lecciono ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a **Get Your Ninite**)
   - `Instal·lo l'executable del Ninite` (el que acabo d'obtenir)
-- `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a ***Essential Tweaks*** i, quan acaba el procés, faig clic a ***Disable Action Center***
-  - `Reinicio el sistema` quan m'ho demani (per aplicar els nous canvis)
+- `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS` > ***Essential Tweaks***, ***Disable Action Center***, ***Dark Mode***, ***Delete Disable OneDrive***, ***Disable Cortana (Search)*** i ***Enable HyperV + WSL***
+  - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
+  - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
+    - Amb aquest script tenim varis recursos útils com ***Win7 Control Panel*** / ***Power Panel*** / ***Sound Panel*** / ***System Panel*** / ***Fixes***
