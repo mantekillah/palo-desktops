@@ -11,8 +11,7 @@
 - `Copio al PowerShell` > `iwr -useb https://git.io/JJ8R4 | iex` (s'obre *Windows Toolbox - [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
 - `Instal·lo el software` > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
 - `Obro Internet`, vaig a [***Ninite***](https://ninite.com) i sel·lecciono > ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a ***Get Your Ninite***
-  - Instal·lo l'executable que la pàgina em torna quan ja he triat tot.
-- Torno al `Windows Toolbox`.
-  - De la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a `Essential Tweaks` i, quan acaba el procés, clico `Disable Action Center`.
+- `Instal·lo l'executable` que acabo de descarregar.
+- `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS`, faig clic a ***Essential Tweaks*** i, quan acaba el procés, faig clic a ***Disable Action Center***
 - **Reinicio el sistema** per aplicar canvis.
 - Torno a executar l'script `iwr -useb https://git.io/JJ8R4 | iex` des de la `Terminal` per obrir el `Windows Toolbox` un altre cop.
