@@ -7,9 +7,9 @@
 - `Reinicio Windows` (per aplicar canvis després d'haver-lo activat)
 - `Instal·lo les actualitzacions` (totes les que m'ofereixin, també les opcionals, del *Windows Update*)
 - `Reinicio Windows` (per acabar d'instal·lar totes les actualitzacions)
-- `Obro Windows PowerShell` (com a administrado, per executar *Windows Toolbox - [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
-  - `Copio al PowerShell` ` **iwr -useb https://git.io/JJ8R4 | iex** `
-  - De la primera columna, `instal·lo el software`: `Windows Terminal`, `PowerToys`, `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
+- `Obro Windows PowerShell` (com a administrador)
+- `Copio al PowerShell`: `iwr -useb https://git.io/JJ8R4 | iex` (s'obre *Windows Toolbox - [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)*)
+- `Instal·lo el software`: `Windows Terminal`, `PowerToys`, `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC` i `SumatraPDF`.
 - Quan acabo d'instal·lar tot el que vull, deixo el `Windows Toolbox` en *stand-by*.
 - Vaig a [Ninite](https://ninite.com).
   - Trio `Steam`, `FileZilla`, `HandBrake`, tot el que hi ha a l'apartat `Runtimes`, `qBittorrent`, `Inkscape` i m'ho descarrego.
