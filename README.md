@@ -32,7 +32,6 @@
 - [GitHub Desktop](https://central.github.com/deployments/desktop/desktop/latest/win32) - Client per GitHub
 - [Visual Studio Code](https://code.visualstudio.com/download#) - Programació i tal
 - [Cool Edit Pro 2.1](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español) - Per gravar-me els meus temes
-- [GIMP](https://www.gimp.org/downloads/) - Reemplaça PhotoShop
 - [Bandicam](https://www.youtube.com/results?search_query=descargar+bandicam+full+español) - Gravar pantalla
 - [Camtasia Studio](https://www.youtube.com/results?search_query=descargar+camtasia+full+español) - Editor de vídeo senzill
 - [TextAloud 4](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español) - Combina amb les veus de Loquendo
