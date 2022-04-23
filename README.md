@@ -15,4 +15,4 @@
 - `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS` > ***Essential Tweaks***, ***Disable Action Center***, ***Dark Mode***, ***Delete Disable OneDrive***, ***Disable Cortana (Search)*** i ***Enable HyperV + WSL***
   - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
   - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
-    - Amb aquest script tenim varis recursos útils com ***Win7 Control Panel*** / ***Power Panel*** / ***Sound Panel*** / ***System Panel*** / ***Fixes***
+    - Amb aquest script tenim varis recursos útils com ***Win7 Control Panel*** / ***Power Panel*** / ***Sound Panel*** / ***System Panel*** i ***Fixes***
