@@ -43,8 +43,5 @@
 
 ## Links
 
-- [Privacy Guides](https://www.privacyguides.org/)
-- [Fansubs.cat - Anime en català](https://anime.fansubs.cat)
-- [Guia de visionat de One Piece sense relleno](https://mag.elcomercio.pe/respuestas/one-piece-como-ver-el-anime-sin-relleno-monkey-d-luffy-todos-los-capitulos-de-one-piece-crunchyroll-nnda-nnrt-noticia/?ref=ecr)
 - [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/) / [Fedora Docs](https://docs.fedoraproject.org/en-US/docs/) / [Ask Fedora - Español](https://ask.fedoraproject.org/c/espac3b1ol/98)
 - [✅✅🔴💻Cómo compartir archivos entre Windows y Linux de manera fácil](https://www.youtube.com/watch?v=2GxGgeojfaE) - Clase Gratis™
