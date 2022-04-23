@@ -5,4 +5,4 @@
 - Obro `PowerShell` en modo administrador i executo l'script de [Chris Titus Tech](https://christitus.com/debloat-windows-10-2020/): `iwr -useb https://git.io/JJ8R4 | iex`.
   - S'obre `Windows Toolbox By Chris Titus`.
   - Instal·lo `Windows Terminal` (substituteix `PowerShell` i és més linux-style), `PowerToys` (bàsicament pel `Caffeine` i el `Color Picker`), `7-Zip`, `Discord`, `Github Desktop`, ``Translucent Taskbar``, ``, ``, ``, ``, ``, ``, `` i ``.
-    - HAN
+    - NO instal·lo `AutoHotkey`.
