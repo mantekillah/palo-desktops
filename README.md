@@ -1,8 +1,8 @@
 # Instal·lació de tot • El meu camí
 
-- Descarrego el `WINDOWS` que més m'agradi.
+- Descarrego el `Windows` que més m'agradi.
   - Personalment, sudaré del *Windows 11* i faré servir `Win10_21H2_Spanish_x64.ISO`.
-- Preparo el *USB bootable*.
+- Preparo el `USB bootable`.
   - Per fer-ho, utilitzo `Rufus`; o, millor encara, `Ventoy`.
 - Instal·lo el Windows en un disc dur buit.
   - **El sistema es reinicia** durant l'instal·lació. S'ha de treure el *pen drive*.
