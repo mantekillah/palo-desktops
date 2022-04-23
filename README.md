@@ -8,7 +8,7 @@
   - INSTAL·LO:
     - `Windows Terminal` (substituteix *PowerShell* i és més linux-style)
     - `PowerToys` (bàsicament pel *Caffeine* i el *Color Picker*)
-    - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`
+    - `7-Zip`, `Discord`, `Github Desktop`, `Translucent Taskbar`, `Advanced IP Scanner`, `Everything Search`, `Firefox`, `Google Chrome`, `ShareX (Screenshots)`, `ImageGlass (Image Viewer)`, `GIMP (Image Editor)`, `VLC`, `VS Code`, `Notepad++`, `Adobe Reader DC`, `SumatraPDF`
    - NO INSTAL·LO:
       - `Etcher USB Creator` (prefereixo utilitzar *Rufus*)
-      - `AutoHotkey`, `PuTTY WinSCP`, `Brave Browser`
+      - `AutoHotkey`, `PuTTY WinSCP`, `Brave Browser`, `Media Player Classic`, `VS Codium`
