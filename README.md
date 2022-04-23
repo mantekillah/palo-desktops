@@ -12,4 +12,4 @@
     - ``Translucent Taskbar``
     - ``, ``, ``, ``, ``, ``, `` i ``.
    - NO INSTAL·LO:
-    - `AutoHotkey`.
+      - `AutoHotkey`.
