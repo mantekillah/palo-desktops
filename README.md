@@ -17,7 +17,7 @@
   - Recomano no tocar res de l'apartat de ***Windows Update***
   - `Reinicio el sistema` quan m'ho vagi demanant (per aplicar els nous canvis)
     - Tornarem més endavant per activar ***Set Time to UTC (Dual Boot)***
-- `Descarrego i instal·lo el software que em falta`:
+- `Descarrego i instal·lo el que em falta`:
   - [***mGBA***](https://mgba.io/downloads.html), [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows), [***Onlyoffice***](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop), [***VirtualBox*** + ***Extension Pack***](https://www.virtualbox.org/wiki/Downloads),
   - [***Geek Uninstaller***](https://geekuninstaller.com/download), [***Tor***](https://www.torproject.org/ca/download/)
 
