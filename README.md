@@ -1,6 +1,6 @@
 # Instal·lació de tot • El meu camí
 
-- `Descarrego Windows` (faré servir ***Win10_21H2_Spanish_x64.iso***)
+- `Descarrego Windows` (faré servir [***20H2-AIO-FINAL.V4.iso***](http://www.mediafire.com/file/fs7qrtkjzfx2kiz/20H2-AIO-FINAL.V4.iso/file))
 - `Preparo l'USB bootable` (per fer-ho, utilitzo [***Rufus***](https://rufus.ie); o, millor encara, [***Ventoy***](https://github.com/ventoy/Ventoy/releases))
 - `Instal·lo Windows` en un disc dur buit (quan *el sistema es reinicia*; **extrec l'USB** i s'acaba la instal·lació)
 - `Activo Windows` (seguint les instruccions del vídeo que millor pinta faci, buscant *activar Windows 10 CMD* a [YouTube](https://youtube.com/results?search_query=activar+windows+10+cmd))
