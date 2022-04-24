@@ -31,7 +31,3 @@
 - [Bandicam](https://www.youtube.com/results?search_query=descargar+bandicam+full+español)
 - [Camtasia Studio](https://www.youtube.com/results?search_query=descargar+camtasia+full+español)
 - [TextAloud 4](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español)
-
-## Links
-
-- [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/) / [Fedora Docs](https://docs.fedoraproject.org/en-US/docs/) / [Ask Fedora - Español](https://ask.fedoraproject.org/c/espac3b1ol/98)
