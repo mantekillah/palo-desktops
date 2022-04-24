@@ -7,12 +7,12 @@
 - `Reinicio Windows` (per aplicar canvis després d'haver-lo activat)
 - `Instal·lo les actualitzacions` (totes les que m'ofereixin, també les opcionals, del ***Windows Update***)
 - `Reinicio Windows` (per acabar d'instal·lar totes les actualitzacions)
-- `Obro Windows PowerShell` (com a administrador) >  `S'obre Windows Toolbox`
+- `Obro Windows PowerShell` (com a administrador)
 - `Copio al PowerShell` l'*script* de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
 ```md
 iwr -useb https://git.io/JJ8R4 | iex
 ```
-  - `Instal·lo el software` (primera columna) > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
+  - `S'obre Windows Toolbox i instal·lo` (primera columna) > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***GIMP***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
 - `Programes Ninite` (obro Internet, vaig a [***Ninite***](https://ninite.com), sel·lecciono ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent***, ***Inkscape*** i faig clic a **Get Your Ninite**)
   - `Instal·lo l'executable del Ninite` (el que acabo d'obtenir)
 - `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS` > ***Essential Tweaks***, ***Disable Action Center***, ***Dark Mode***, ***Delete Disable OneDrive***, ***Disable Cortana (Search)*** i ***Enable HyperV + WSL***
