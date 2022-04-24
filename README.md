@@ -12,7 +12,7 @@
 ```md
 iwr -useb https://git.io/JJ8R4 | iex
 ```
-  - `S'obre Windows Toolbox i instal·lo` (primera columna) > ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
+  - `S'obre Windows Toolbox i instal·lo` ***Windows Terminal***, ***PowerToys***, ***7-Zip***, ***Discord***, ***Github Desktop***, ***Translucent Taskbar***, ***Advanced IP Scanner***, ***Everything Search***, ***Firefox***, ***Google Chrome***, ***ShareX***, ***ImageGlass***, ***VLC***, ***VS Code***, ***Notepad++***, ***Adobe Reader DC*** i ***SumatraPDF***
 - `Programes Ninite` (obro Internet, vaig a [***Ninite***](https://ninite.com), sel·lecciono ***Steam***, ***FileZilla***, ***HandBrake***, ***tot el que hi ha a l'apartat Runtimes***, ***qBittorrent*** i faig clic a **Get Your Ninite**)
   - `Instal·lo l'executable del Ninite` (el que acabo d'obtenir)
 - `Torno al Windows Toolbox` i, de la segona columna per l'esquerra, `SYSTEM TWEAKS` > ***Essential Tweaks***, ***Disable Action Center***, ***Dark Mode***, ***Delete Disable OneDrive***, ***Disable Cortana (Search)*** i ***Enable HyperV + WSL***
