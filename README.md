@@ -24,7 +24,7 @@
 - [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/)
 - [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64)
 - [aTube Catcher](https://www.atube.me/es/)
-- [Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip)
+- [Winaero Tweaker](https://winaero.com/winaero-tweaker/#download)
 - [MEGAsync](https://mega.io/desktop)
 - [OBS Studio](https://obsproject.com/es/download)
 - [Telegram Desktop](https://telegram.org/dl/desktop/win64)
