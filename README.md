@@ -8,7 +8,7 @@
 - `Instal·lo les actualitzacions` (totes les que m'ofereixin, també les opcionals, del ***Windows Update***)
 - `Reinicio Windows` (per acabar d'instal·lar totes les actualitzacions)
 - `Obro Windows PowerShell` (com a administrador)
-- `Copio al PowerShell` l'*script* de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script)
+- `Copio al PowerShell` l'*script* de [Chris Titus Tech](https://github.com/ChrisTitusTech/win10script):
 ```md
 iwr -useb https://git.io/JJ8R4 | iex
 ```
