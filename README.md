@@ -35,4 +35,3 @@
 ## Links
 
 - [Fedora Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/) / [Fedora Docs](https://docs.fedoraproject.org/en-US/docs/) / [Ask Fedora - Español](https://ask.fedoraproject.org/c/espac3b1ol/98)
-- [✅✅🔴💻Cómo compartir archivos entre Windows y Linux de manera fácil](https://www.youtube.com/watch?v=2GxGgeojfaE) - Clase Gratis™
