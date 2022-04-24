@@ -25,9 +25,9 @@
 - [***CCleaner***](https://www.ccleaner.com/ccleaner/download/standard), [***TeamViewer***](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/), [***Microsoft Teams***](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64), [***aTube Catcher***](https://www.atube.me/es/), [***Winaero Tweaker***](https://winaero.com/winaero-tweaker/#download), [***MEGAsync***](https://mega.io/desktop), [***OBS Studio***](https://obsproject.com/es/download), [***Telegram Desktop***](https://telegram.org/dl/desktop/win64), [***Element***](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe), [***WoW 3.3.5a***](https://api.naerzone.es/descargas/windows/Naerzone%203.3.5%20esES.rar), [***TulaLauncher***](https://www.tula-wow.com/page/connect), [***Epic Games Launcher***](https://store.epicgames.com/es-ES/download), [***WordPress packaged by Bitnami***](https://bitnami.com/stack/wordpress/installer)
 
 
-- [***Adobe After Effects](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español)
-- [Adobe Premiere Pro](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español)
-- [Cool Edit Pro 2.1](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español)
-- [Bandicam](https://www.youtube.com/results?search_query=descargar+bandicam+full+español)
-- [Camtasia Studio](https://www.youtube.com/results?search_query=descargar+camtasia+full+español)
-- [***TextAloud 4](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español)
+- [***Adobe After Effects***](https://www.youtube.com/results?search_query=descargar+adobe+after+effects+full+español)
+- [***Adobe Premiere Pro***](https://www.youtube.com/results?search_query=descargar+adobe+premiere+pro+full+español)
+- [***Cool Edit Pro 2.1***](https://www.youtube.com/results?search_query=descargar+cool+edit+pro+2.1+full+español)
+- [***Bandicam***](https://www.youtube.com/results?search_query=descargar+bandicam+full+español)
+- [***Camtasia Studio***](https://www.youtube.com/results?search_query=descargar+camtasia+full+español)
+- [***TextAloud 4***](https://www.youtube.com/results?search_query=descargar+textaloud+4+full+español)
