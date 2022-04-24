@@ -20,11 +20,15 @@
 - `Instal·lo el software que em falta`:
   - [***mGBA***](https://mgba.io/downloads.html), [***Opera GX***](https://www.opera.com/computer/thanks?ni=eapgx&os=windows), [***Onlyoffice***](https://www.onlyoffice.com/es/download-desktop.aspx?from=desktop), [***VirtualBox*** + ***Extension Pack***](https://www.virtualbox.org/wiki/Downloads),
   - [***Geek Uninstaller***](https://geekuninstaller.com/download), [***Tor***](https://www.torproject.org/ca/download/)
+
+
 - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)
 - [TeamViewer](https://www.teamviewer.com/es/descarga-automatica-de-teamviewer/)
 - [Microsoft Teams](https://go.microsoft.com/fwlink/p/?LinkID=2187217&clcid=0x40a&culture=es-es&country=ES&Lmsrc=groupChatMarketingPageWeb&Cmpid=directDownloadv2Win64)
 - [aTube Catcher](https://www.atube.me/es/)
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/#download)
+
+
 - [MEGAsync](https://mega.io/desktop)
 - [OBS Studio](https://obsproject.com/es/download)
 - [Telegram Desktop](https://telegram.org/dl/desktop/win64)
