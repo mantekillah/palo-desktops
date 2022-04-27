@@ -2,5 +2,5 @@
 
 # Windows 10 Pro
 
-<img src="./screenshot.png">
+<img src="./windows10pro.png">
 </div>
