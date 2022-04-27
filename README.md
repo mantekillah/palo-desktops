@@ -24,4 +24,4 @@ iwr -useb https://git.io/JJ8R4 | iex
   - `Descarrego i instal·lo` [***Geek Uninstaller***](https://geekuninstaller.com/download), [***Tor***](https://www.torproject.org/ca/download/) i [***WordPress packaged by Bitnami***](https://bitnami.com/stack/wordpress/installer) (a *C:\Extras*)
   - `Descarrego i instal·lo` ***Cool Edit***, ***After Effects***, ***Premiere Pro***, ***Photoshop***, ***Illustrator***, ***TextAloud***, ***Camtasia***, el ***WoW 3.3.5a*** i ***Bandicam*** ([de forma *turbulenta*](https://www.youtube.com/results?search_query=descargar+programa+de+turno+full+español); o com jo, que ja ho tinc tot comprimit i preparat al *MEGAsync*)
 
-<img src="https://i.imgur.com/JPIEwJF.png">
+<img src=·./screenshot.png">
