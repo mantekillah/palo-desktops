@@ -1,5 +1,5 @@
 # Escriptoris by Palo
 
-## Windows 10 Pro x64
+## Windows 10 Pro
 
 <img src="./screenshot.png">
