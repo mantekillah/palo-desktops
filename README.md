@@ -5,6 +5,6 @@
 <a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img src="./zorin.png"></a></p>
 <p><a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img alt="Manjaro" src="https://img.shields.io/static/v1?logo=manjaro&label=&message=Manjaro&color=161b22&style=flat-square" height="40" style="padding-right:10px;"/></a>
 <a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img src="./manjaro.png"></a></p>
-<p><a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img alt="Manjaro" src="https://img.shields.io/static/v1?logo=manjaro&label=&message=Fedora&color=161b22&style=flat-square" height="40" style="padding-right:10px;"/></a>
+<p><a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img alt="Manjaro" src="https://img.shields.io/static/v1?logo=fedora&label=&message=Fedora&color=161b22&style=flat-square" height="40" style="padding-right:10px;"/></a>
 <a href="https://github.com/mantekillah/palo-desktops" target="_blank"><img src="./fedora.png"></a></p>
 </div>
